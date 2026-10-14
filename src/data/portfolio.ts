@@ -19,8 +19,8 @@ export const portfolio: Portfolio = {
     languages: ['Python', 'C++', 'JavaScript', 'TypeScript', 'SQL'],
   },
   education: [
-    { degree: 'Bachelor of Technology', focus: 'Computer Science — AI & ML', school: '[Add your university]', years: '[Add years]' },
-    { degree: 'Diploma in Computer Science', focus: '', school: '[Add your college]', years: '[Add years]' },
+    { degree: 'Bachelor of Technology', focus: 'Computer Science — AI & ML', school: 'V.F.S.T.R', years: '2025-2028'   },
+    { degree: 'Diploma', focus: 'Computer Science', school: 'V.F.S.T.R', years: '2022-2025' },
   ],
   projects: [
     { id: 'rag-textbook-assistant', name: 'RAG Textbook Assistant', description: 'An assistant designed to help explore and understand textbook material.', technologies: ['Python', 'RAG', 'LLMs'], year: '2026', github: 'https://github.com/NoobNarasimharao/RagProjectIDP' },
